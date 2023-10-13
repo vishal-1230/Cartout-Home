@@ -1,7 +1,7 @@
-import { ReactComponent as HomeImg } from '@/images/home-ilustration.svg'
+import { ReactComponent as HomeImg } from '../../../public/images/home-ilustration.svg'
 import classNames from 'classnames'
 import { useTranslation } from 'react-i18next'
-import layout from '@/styles/Layout.module.scss'
+import layout from '../../../styles/Layout.module.scss'
 import style from './Home.module.scss'
 
 function Home() {

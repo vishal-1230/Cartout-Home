@@ -1,7 +1,7 @@
-import { ReactComponent as AppImg } from '@/images/app-ilustration.svg'
+import { ReactComponent as AppImg } from '../../../public/images/app-ilustration.svg'
 import classNames from 'classnames'
 import { useTranslation } from 'react-i18next'
-import layout from '@/styles/Layout.module.scss'
+import layout from '../../../styles/Layout.module.scss'
 import style from './InfoApp.module.scss'
 
 function InfoApp() {

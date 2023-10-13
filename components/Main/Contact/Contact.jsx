@@ -1,6 +1,6 @@
 import classNames from 'classnames'
 import { useTranslation } from 'react-i18next'
-import layout from '@/styles/Layout.module.scss'
+import layout from '../../../styles/Layout.module.scss'
 import style from './Contact.module.scss'
 
 function Contact() {

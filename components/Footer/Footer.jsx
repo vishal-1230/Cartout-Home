@@ -1,7 +1,7 @@
 import classNames from 'classnames'
 import { useTranslation } from 'react-i18next'
 import style from './Footer.module.scss'
-import layout from '@/styles/Layout.module.scss'
+import layout from "../../styles/Layout.module.scss"
 
 function Footer() {
   const { t } = useTranslation()
